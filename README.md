@@ -1,6 +1,9 @@
 # ebusd-esp
 Firmware for ESP8266, ESP8285, and ESP32 allowing eBUS communication for ebusd with lowest possible latency.
 
+Note: Development on this firmware is dicontinued.
+Instead, using a [Wemos C3 mini](https://www.wemos.cc/en/latest/c3/c3_mini.html) with the [special build of the V5 adapter firmware](https://adapter.ebusd.eu/v5/wemos.en) can easily be used as replacement.
+
 ## History
 For a history of versions and changes made therein, see the [change log](Changelog.md).
 
